@@ -1,3 +1,5 @@
+#to open all the links within a url(entered by user) in different windows
+
 import webbrowser
 import urllib.request,urllib.parse,urllib.error
 from bs4 import BeautifulSoup
