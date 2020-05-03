@@ -1,3 +1,4 @@
+# enter you address either as command line argument or when asked. The given location open in gmaps
 import sys,pyperclip,webbrowser
 
 if len(sys.argv)>1:
